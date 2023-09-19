@@ -102,10 +102,10 @@ nav ul li a:hover{
 
 section#box-profile{
     position: relative;
-    width: 80%;
+    width: 90%;
     min-height: 250px;
-    margin-left: 10%;
-    margin-right: 10%;
+    margin-left: 5%;
+    margin-right: 5%;
     margin-top: 60px;
     border-radius: 6px;
     background-color: #ffffff;
@@ -220,6 +220,10 @@ input{
     margin-top: 5px;
     margin-bottom: 5px;
     font-size: 14px;
+}
+
+input.bg-green{
+    cursor: pointer;
 }
 
 @media(min-width:321px) and (max-width: 400px){
